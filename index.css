@@ -1,0 +1,22 @@
+body{
+  background-image: url(https://www.wpmotors.co.za/wp-content/uploads/2017/06/honda-small-sports-ev-concept-electric-car.jpg);
+  background-size: cover;
+  background-position: ;
+  background-size: 2555px;
+}
+p{
+  font-size: 30px;
+  font-family: 'Carme', sans-serif;
+
+}
+h1{
+  font-family: 'Diplomata SC', cursive;
+  color: lightyellow;
+}
+h1, h2{
+  text-align: center;
+  font-family: 'Diplomata SC', cursive;
+}
+h2{
+  color: red;
+}
